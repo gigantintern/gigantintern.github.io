@@ -4,10 +4,9 @@
         <div class="person">
             <img alt="My photo" src="https://res.cloudinary.com/devsxljfx/image/upload/v1486220130/gigantloga.png" alt="">
         </div>
-
-        <h1>
-            <span class="site-title">[{{site.username}}]</span>
-        </h1>
+        <p style="font-size:20px;">
+            Gigant lab är en kreativ byrå som utvecklar och skapar <br> digitala lösningar till alla plattformar.
+        </p>
 
         <div class="icons-home">
             <a aria-label="Send email" title="Send me a e-mail" href="mailto:{{site.email}}">
@@ -26,11 +25,11 @@
                 <svg class="icon icon-github-alt"><use xlink:href="#icon-github-alt"></use></svg>
             </a>
 
-            <a aria-label="Use the RSS to get updated" title="Register for my RSS" target="_blank" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+            <a aria-label="Use the RSS to get updated" title="Register for my RSS" target="_blank" href="{{ " /feed.xml " | prepend: site.baseurl }}">
                 <svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg>
             </a>
         </div>
-
+        <!--
         <ul class="recent">
             <p>Recent posts:</p>
              {% for post in site.posts limit:3%}
@@ -52,6 +51,41 @@
                 </li>
               {% endfor %}
         </ul>
+      -->
+        <br>
+        <br>
+        <div class="col sqs-col-6 span-6">
+            <div class="row sqs-row">
+                <div class="col sqs-col-3 span-3">
+                    <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7b4e635c903dc93728bd">
+                        <div class="sqs-block-content">
+                            <p class="text-align-center">Försäljning - Matilda Ekman<br><a href="mailto:matilda.ekman@gigantlab.com">matilda.ekman@gigantlab.com</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col sqs-col-3 span-3">
+                    <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_8_1472803986260_7833">
+                        <div class="sqs-block-content">
+                            <p class="text-align-center">Utveckling och rekrytering - Emil Karlsson<br><a href="mailto:emil.karlsson@gigantlab.com">emil.karlsson@gigantlab.com</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_2_1476895181641_27862">
+                <div class="sqs-block-content">
+                    <p class="text-align-center">För samarbetsförfrågningar: <a href="mailto:hello@gigantlab.com">hello@gigantlab.com</a></p>
+                </div>
+            </div>
+            <div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="1.8333333333333333" data-block-type="21" id="block-yui_3_17_2_8_1472803986260_18378">
+                <div class="sqs-block-content sqs-intrinsic" id="yui_3_17_2_1_1486221200532_109" style="padding-bottom: 1.83333%;">&nbsp;</div>
+            </div>
+            <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_8_1472803986260_6128">
+                <div class="sqs-block-content">
+                    <p class="text-align-center">Övrigt<br><a href="mailto:hello@gigantlab.com">hello@gigantlab.com</a></p>
+                    <p class="text-align-center">Övriga medarbetare<br>förnamn.efternamn@gigantlab.com</p>
+                </div>
+            </div>
+        </div>
 
     </div>
     {% include menu-search.html %}

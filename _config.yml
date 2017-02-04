@@ -1,10 +1,10 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Gigant - är en kreativ byrå som utvecklar och skapar digitala lösningar
+description: "Gigant - är en kreativ byrå som utvecklar och skapar digitala lösningar"
 baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templa' to ''
 url: "https://gigantintern.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
+username: Gigant är en kreativ byrå som utvecklar och skapar digitala lösningar
 user_title: Lorem Ipsum - FrontEnd
 email: lorem.lorem@ipsum.com
 twitter_username: loremipsum
