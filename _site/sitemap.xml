@@ -2,11 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	  <url>
+		<loc>https://gigantintern.github.io/sharding3/</loc>
+	  </url>
+	
+	  <url>
+		<loc>https://gigantintern.github.io/sharding2/</loc>
+	  </url>
+	
+	  <url>
 		<loc>https://gigantintern.github.io/sharding/</loc>
 	  </url>
 	
 	  <url>
+		<loc>https://gigantintern.github.io/space3/</loc>
+	  </url>
+	
+	  <url>
+		<loc>https://gigantintern.github.io/space2/</loc>
+	  </url>
+	
+	  <url>
 		<loc>https://gigantintern.github.io/space/</loc>
+	  </url>
+	
+	  <url>
+		<loc>https://gigantintern.github.io/ehandel/</loc>
 	  </url>
 	
 </urlset>
