@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "portfolio site"
+title:  "emilingemarkarlsson.github.io"
 image: ''
 date:   2016-03-12 00:06:31
 tags:
@@ -12,7 +12,7 @@ serie: webb
 ---
 ## emilingemarkarlsson
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime
 
 <a href="https://www.emilingemarkarlsson.github.io">Besök »</a>
 
