@@ -3,18 +3,18 @@
   <channel>
     <title>Gigant - är en kreativ byrå som utvecklar och skapar digitala lösningar</title>
     <description>Gigant - är en kreativ byrå som utvecklar och skapar digitala lösningar</description>
-    <link>https://gigantintern.github.io/space-jekyll-template/</link>
-    <atom:link href="https://gigantintern.github.io/space-jekyll-template/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Feb 2017 06:26:26 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2017 06:26:26 +0100</lastBuildDate>
+    <link>https://gigantintern.github.io/</link>
+    <atom:link href="https://gigantintern.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 22 Feb 2017 06:31:52 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Feb 2017 06:31:52 +0100</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
         <title>Sharding in MongoDB</title>
         <description>&lt;p class=&quot;music-read&quot;&gt;&lt;a href=&quot;spotify:track:4DAZ8UYNpWVIV46aLkN2Qp&quot;&gt;Music for reading(spotify)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;sharding--why-&quot;&gt;Sharding ? why ?&lt;/h2&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores! Voluptatum amet perspiciatis iusto, fugiat!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, libero quia placeat necessitatibus culpa mollitia, illum, quam sed ratione ad eaque suscipit consectetur itaque quasi aperiam. Quaerat, nihil voluptas...</description>
         <pubDate>Mon, 12 Sep 2016 02:06:31 +0200</pubDate>
-        <link>https://gigantintern.github.io/space-jekyll-template/sharding/</link>
-        <guid isPermaLink="true">https://gigantintern.github.io/space-jekyll-template/sharding/</guid>
+        <link>https://gigantintern.github.io/sharding/</link>
+        <guid isPermaLink="true">https://gigantintern.github.io/sharding/</guid>
         
         <category>mongodb</category>
         
@@ -27,8 +27,8 @@
         <title>Github is awesome</title>
         <description>&lt;p class=&quot;music-read&quot;&gt;&lt;a href=&quot;spotify:track:4DAZ8UYNpWVIV46aLkN2Qp&quot;&gt;Music for reading(spotify)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;github--why-&quot;&gt;Github ? why ?&lt;/h2&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores! Voluptatum amet perspiciatis iusto, fugiat!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, libero quia placeat necessitatibus culpa mollitia, illum, quam sed ratione ad eaque suscipit consectetur itaque quasi aperiam. Quaerat, nihil voluptas...</description>
         <pubDate>Sat, 12 Mar 2016 01:06:31 +0100</pubDate>
-        <link>https://gigantintern.github.io/space-jekyll-template/space/</link>
-        <guid isPermaLink="true">https://gigantintern.github.io/space-jekyll-template/space/</guid>
+        <link>https://gigantintern.github.io/space/</link>
+        <guid isPermaLink="true">https://gigantintern.github.io/space/</guid>
         
         <category>mongodb</category>
         

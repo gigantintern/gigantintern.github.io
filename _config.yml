@@ -1,16 +1,16 @@
 # Site settings
 title: Gigant - är en kreativ byrå som utvecklar och skapar digitala lösningar
 description: "Gigant - är en kreativ byrå som utvecklar och skapar digitala lösningar"
-baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templa' to ''
+baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "https://gigantintern.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: Gigant är en kreativ byrå som utvecklar och skapar digitala lösningar
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+user_title: Gigant - Utvecklar och skapar digitala lösningar
+email: matilda.ekman@gigantlab.com
+#twitter_username: loremipsum
+#github_username:  loremipsum
+#gplus_username:  loremipsum
+#disqus_username: loremipsum
 
 # Build settings
 markdown: kramdown
@@ -27,23 +27,23 @@ compress_html:
 
 # Links to include in menu navigation
 links:
-  - title: home
+  - title: hem
     url: /
-  - title: my posts
-    url: /posts
-  - title: series
+  - title: kontakt
+    url: /
+  - title: projekt
     url: /series
-  - title: tags
-    url: /tags
-  - title: about me
-    url: /about
+  #- title: tags
+  #  url: /tags
+  #- title: about me
+  #  url: /about
 # projects in header index
-projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara
+#projects:
+#  - name: asciilang
+#    url: https://github.com/victorvoid/asciilang
+#  - name: vim-frontend
+#    url: https://github.com/victorvoid/vim-frontend
+#  - name: generator-capybara
+#    url: https://github.com/victorvoid/generator-capybara
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
