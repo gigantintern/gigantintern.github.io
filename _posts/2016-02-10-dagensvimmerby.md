@@ -12,10 +12,20 @@ categories:
 serie: app
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores!
+<i>Mjukvara, Utveckling</i>
 
-<a href="https://www.w3schools.com">Besök »</a>
+<b>Vi vill nå fler läsare!</b>
+
+Ville nå ut till flera läsare, genom att scanna marknaden innan det skapade en allt för dyr produkt. Detta hjälpte vi dem med, genom att skapa en beta version av appen för att scanna av marknaden anpassa och sedan slutföra.
+
+
+
+
+<a href="http://www.dagensvimmerby.se/">Besök hemsida »</a>
+<a href="https://play.google.com/store/apps/details?id=se.dagensvimmerby&hl=sv">Android »</a>
+<a href="https://itunes.apple.com/se/app/dagens-vimmerby/id1171702311?mt=8">iOS »</a>
+
 
 <figure class="foto-legenda">
-	<img src="{{ "/assets/img/sharding-gerenciamento-usuarios/ajudando-carregar.jpg"}}" alt="">
+	<img src="" alt="">
 </figure>

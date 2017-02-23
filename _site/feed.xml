@@ -5,19 +5,26 @@
     <description>Gigant - är en kreativ byrå som utvecklar och skapar digitala lösningar</description>
     <link>https://gigantintern.github.io/</link>
     <atom:link href="https://gigantintern.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Feb 2017 13:30:12 +0100</pubDate>
-    <lastBuildDate>Thu, 23 Feb 2017 13:30:12 +0100</lastBuildDate>
+    <pubDate>Thu, 23 Feb 2017 13:37:58 +0100</pubDate>
+    <lastBuildDate>Thu, 23 Feb 2017 13:37:58 +0100</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
         <title>Seekly</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores!&lt;/p&gt;
+        <description>&lt;p&gt;&lt;i&gt;Mjukvara, Utveckling&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.w3schools.com&quot;&gt;Besök »&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Hitta eventen med din geografiska position&lt;/b&gt;&lt;/p&gt;
 
+&lt;p&gt;Föra personer tillsammans med likande intressen, det vill Seekly göra.
+Vi hjälpte dem med en app igenom enkel användning och ihop matchning på geografiska grunder utveckla detta.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.seekly.com&quot;&gt;Besök »&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--
 &lt;figure class=&quot;foto-legenda&quot;&gt;
-	&lt;img src=&quot;/assets/img/sharding-gerenciamento-usuarios/ajudando-carregar.jpg&quot; alt=&quot;&quot; /&gt;
+	&lt;img src=&quot;/assets/img/sharding-gerenciamento-usuarios/ajudando-carregar.jpg&quot; alt=&quot;&quot;&gt;
 &lt;/figure&gt;
+--&gt;
 </description>
         <pubDate>Mon, 12 Sep 2016 02:06:31 +0200</pubDate>
         <link>https://gigantintern.github.io/seekly/</link>
@@ -32,12 +39,18 @@
     
       <item>
         <title>Dagens Vimmerby</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores!&lt;/p&gt;
+        <description>&lt;p&gt;&lt;i&gt;Mjukvara, Utveckling&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.w3schools.com&quot;&gt;Besök »&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Vi vill nå fler läsare!&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Ville nå ut till flera läsare, genom att scanna marknaden innan det skapade en allt för dyr produkt. Detta hjälpte vi dem med, genom att skapa en beta version av appen för att scanna av marknaden anpassa och sedan slutföra.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dagensvimmerby.se/&quot;&gt;Besök hemsida »&lt;/a&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=se.dagensvimmerby&amp;amp;hl=sv&quot;&gt;Android »&lt;/a&gt;
+&lt;a href=&quot;https://itunes.apple.com/se/app/dagens-vimmerby/id1171702311?mt=8&quot;&gt;iOS »&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;foto-legenda&quot;&gt;
-	&lt;img src=&quot;/assets/img/sharding-gerenciamento-usuarios/ajudando-carregar.jpg&quot; alt=&quot;&quot; /&gt;
+	&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;
 </description>
         <pubDate>Mon, 12 Sep 2016 02:06:31 +0200</pubDate>
@@ -106,7 +119,7 @@
         <description>&lt;p&gt;Mer information kommer innom kort.&lt;/p&gt;
 
 &lt;figure class=&quot;foto-legenda&quot;&gt;
-	&lt;img src=&quot;https://res.cloudinary.com/devsxljfx/image/upload/v1487750122/eik_macbookgrey_front_tfiffg.png&quot; alt=&quot;&quot; /&gt;
+	&lt;img src=&quot;&quot; alt=&quot;&quot; /&gt;
 &lt;/figure&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 01:06:31 +0100</pubDate>
