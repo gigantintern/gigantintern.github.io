@@ -33,14 +33,6 @@
     } ,
   
     {
-      "title"    : "emilingemarkarlsson.github.io",
-      "category" : "Webb",
-      "tags"     : "laravel",
-      "url"      : "/emilingemarkarlsson/",
-      "date"     : "12 Mar 2016"
-    } ,
-  
-    {
       "title"    : "pågår just nu",
       "category" : "E-handel",
       "tags"     : "node.js",

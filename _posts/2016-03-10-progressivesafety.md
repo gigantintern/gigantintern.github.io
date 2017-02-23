@@ -10,11 +10,15 @@ categories:
 - Webb
 serie: webb
 ---
+<i>Websida</i>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores!
 
-<a href="https://www.w3schools.com">Besök »</a>
+En webbutveckling för ett företag inom säkerhetsbranschen, som med sin lösning ville nå en större marknad genom en lätt överskådlig hemsida.
+
+
+
+<a href="http://www.progressivesafety.se/">Besök »</a>
 
 <figure class="foto-legenda">
-	<img src="{{ "/assets/img/sharding-gerenciamento-usuarios/ajudando-carregar.jpg"}}" alt="">
+	<img src="https://res.cloudinary.com/devsxljfx/image/upload/v1487852321/progressive_imac2015retina_front_dy6lfm.png" alt="">
 </figure>
