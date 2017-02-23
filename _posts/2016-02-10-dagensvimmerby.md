@@ -22,7 +22,9 @@ Ville nå ut till flera läsare, genom att scanna marknaden innan det skapade en
 
 
 <a href="http://www.dagensvimmerby.se/">Besök hemsida »</a>
+<br>
 <a href="https://play.google.com/store/apps/details?id=se.dagensvimmerby&hl=sv">Android »</a>
+<br>
 <a href="https://itunes.apple.com/se/app/dagens-vimmerby/id1171702311?mt=8">iOS »</a>
 
 
